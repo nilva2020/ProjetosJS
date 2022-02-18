@@ -1,5 +1,6 @@
 # Calculadora
-<img align="right" src="https://www.flaticon.com/br/icone-gratis/calculadora_342344">
+<img align="right" src="https://i.ibb.co/Y2CtjQs/calcular.png" width="50" height="50" alt="calcular">
+
 
  <p>Projeto executado durante a participação
  da IMERSÃO_DEV com ALURA</p>
