@@ -1,9 +1,5 @@
-
 #Mentalista
-Em
-Em
 <img align="right" src="https://i.ibb.co/qxw8gLy/mentalista.png" alt="mentalista" width="50" height="50">
-
 **Objetivo**:
 Desenvolver um jogo de adivinhação. Onde o usuario poderá realizar até 3 tentativas de adivinhar o número secreto do jogo.
 
