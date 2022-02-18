@@ -9,7 +9,7 @@
 
 <p> Feel free to make corrections:)<p>
 
-<p> The designs of this repository were learned through:
+**The designs of this repository were learned through:**
 * IMERSÃO_DEV com ALURA;
 * Bootcamp da Digital Inovation One;
 * Course Java Script Udemy;
