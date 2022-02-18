@@ -1,7 +1,7 @@
 # ProjetosJS
 
-<h1> align="center">**Hello, welcome to the Java Script Projects folder**</h1>
-<a href="https://www.flaticon.com/br/icones-gratis/esboco" title="esboço ícones"></a>
+<h1> align="center">Hello, welcome to the Java Script Projects folder</h1>
+<img src="https://www.flaticon.com/br/icones-gratis/esboco" alt="project" width="40" height="40"/>
 
 <p> All projects were developed during my studies of the Java Script language</p>
 
