@@ -1,6 +1,8 @@
 # Calculadora
- projeto executado durante a participação
- da IMERSÃO_DEV com ALURA
+<img align="right" src="https://www.flaticon.com/br/icone-gratis/calculadora_342344">
+
+ <p>Projeto executado durante a participação
+ da IMERSÃO_DEV com ALURA</p>
 
 
 
@@ -13,7 +15,7 @@ Projetar uma calculadora utilizando as funções do JAVA SCRIPT
 * Métodos & Funções;
 * Lógica;
 * Operadores;
-*  Formulários
+* Formulários
 
 
 
