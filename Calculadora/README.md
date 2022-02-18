@@ -2,14 +2,20 @@
  projeto executado durante a participação
  da IMERSÃO_DEV com ALURA
 
+
+
 **Objetivo**:
 Projetar uma calculadora utilizando as funções do JAVA SCRIPT
 
+
+
 **O que aprendi**:
--[x]Métodos & Funções;
--[x]Lógica;
--[x]Operadores;
--[x]Formulários.
+* Métodos & Funções;
+* Lógica;
+* Operadores;
+*  Formulários
+
+
 
 **Linguagens:**
  
@@ -17,6 +23,8 @@ Projetar uma calculadora utilizando as funções do JAVA SCRIPT
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ Em
+e m
  
 **Ferramentas:**
 <p align="left">
